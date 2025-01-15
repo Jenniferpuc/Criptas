@@ -11,6 +11,8 @@ Acceso Remoto y en Tiempo Real
 Automatización y Control de Pagos
 
 RIQUISITOS PREVIOS:
+ASP.NET para Backend 
+React para Frontend
 
 
 
